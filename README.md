@@ -23,8 +23,8 @@ I'm a computer science undergrad and I love coding, physics, math and food.
 ```python
 
   pronouns = "he" | "him" | "Chan" 
-  code = [Javascript, Typescript, HTML, CSS, Python, Octave, MySQL, SQLite, C++]
-  tools = [React, Django, Bash, Bootstap, Linux-Ubuntu]
+  code = [Python, Octave,Javascript,HTML, CSS, MySQL, SQLite, C++]
+  tools = [Django, Bash, Bootstap, Linux-Ubuntu]
   techCommunities = {
                         Member : "PICT - ACM Chapter",
                         
